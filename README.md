@@ -2,7 +2,7 @@
 
 ## Overview
 
-**phpAnalytics** is a self-hosted, privacy-focused web analytics platform designed to provide detailed, real-time traffic reports without compromising user privacy. Built on Laravel and Bootstrap, it offers comprehensive insights into website performance, including visitor behavior, traffic sources, geographic data, and technology usage. With support for subscription-based services, phpAnalytics is ideal for developers, marketers, and businesses looking to build a SaaS analytics solution or monitor their own websites.[https://lunatio.de/phpanalytics/](https://lunatio.de/phpanalytics/)[https://lunatio.de/phpanalytics/](https://lunatio.de/phpanalytics/)
+**phpAnalytics** is a self-hosted, privacy-focused web analytics platform designed to provide detailed, real-time traffic reports without compromising user privacy. Built on Laravel and Bootstrap, it offers comprehensive insights into website performance, including visitor behavior, traffic sources, geographic data, and technology usage. With support for subscription-based services, phpAnalytics is ideal for developers, marketers, and businesses looking to build a SaaS analytics solution or monitor their own websites.[https://lunatio.de/phpanalytics/](https://lunatio.de/phpanalytics/)  Free license : [https://lunatio.de/license](https://lunatio.de/license)
 
 ## Features
 
